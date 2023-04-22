@@ -11,4 +11,4 @@
 3. Медиазапросы
 4. Использование относительных велечин
 ## Ссылка на GitHub Pages
-[Репазиторий](https://nikolay20112001.github.io/russian-travel/)
+[GitHub Pages проект](https://nikolay20112001.github.io/russian-travel/)
