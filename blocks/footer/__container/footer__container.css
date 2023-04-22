@@ -1,0 +1,9 @@
+.footer__container {
+
+}
+
+@media screen and (max-width: 320px){
+    .footer__container {
+        flex-direction: column;
+    }
+}

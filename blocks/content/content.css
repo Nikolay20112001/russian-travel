@@ -1,0 +1,12 @@
+.content {
+    display: grid;
+    grid-template-columns: minmax(288px, 1184px);
+    margin: 56px auto 0 auto;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1024px){
+    .content {
+        margin-top: 48px;
+    }
+}
